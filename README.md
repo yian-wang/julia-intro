@@ -1,2 +1,2 @@
-# julia-intro
-Introduction to Coding in Julia
+# An Introduction to Coding in Julia
+
